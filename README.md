@@ -5,3 +5,4 @@ Studying at GB on the course PyTorch for artificial neural network development
 3. Dataloader_Dropout. Dataset, Dataloader, Dropout, BatchNorm;
 4. CNN. Convolutional neural network;
 5. Image_segmentation. PyTorch Segmentation resnet50;
+6. Sentiment_analysis. Using one-dimensional convolutions to predict message sentiment
